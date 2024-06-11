@@ -5,10 +5,6 @@
 # Date: 18/04/2024
 #
 
-# from SpikeLine import TerminalColors as colors
-
-# PUBLIC METHODS
-
 import re
 
 def getFastaFileData(inputFilePath: str):

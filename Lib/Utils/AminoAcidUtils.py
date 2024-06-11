@@ -1,6 +1,6 @@
 #
 # Name: AminoAcidUtils.py
-# Function: ???
+# Function: Provides aid for amino acids operations
 # Author: João Pedro da Mata Gonçalves Ribeiro
 # Date: 19/05/2024
 #
